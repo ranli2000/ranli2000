@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://gitee.com/ranmengrui/ranli/raw/master/%E5%8D%97%E9%A3%8E/api.json", "name": "豪洋" },
+{ "urls": [{ "url": "https://github.com/ranli2000/ranli2000/blob/main/%E5%8D%97%E9%A3%8E/api.json", "name": "豪洋" },
 
         {
             "url": "https://gitee.com/ranmengrui/ranli/raw/master/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91js/api.json",
